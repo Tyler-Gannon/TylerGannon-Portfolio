@@ -10,8 +10,7 @@
 ## **:file_folder: Featured Projects**
 1. Data Pipeline: Databricks, Microsoft Azure, Snowflake (Information Management Capstone Project)
 - End-to-end data pipeline leveraging Databricks, Azure Data Lake, and Snowflake to process and analyze data.
-2. NBA Contract Analysis:
-- Currently in progress.
+2. NBA Contract Analysis: (Currently in progress)
 - Utilize NBA advanced statistics and machine learning to predict optimal contract values for NBA players.
 - Evaluate actual NBA contracts against predicted values to determine which players are underpaid / overpaid.
 - Deliverable: Optimal NBA lineup generator given a team's salary cap restrictions or current players on the roster.
@@ -19,7 +18,8 @@
 ## **:toolbox: Skills & Tools**
 - Visualization: Tableau, PowerBI
 - Languages: Python, SQL, JavaScript, R, CSS, HTML
-- 
+- Analytics & Strategy: Data Analysis, Predictive Modeling
+- Communication: Data Storytelling, Cross-Team Collaboration
 
 ## **:incoming_envelope: Contact Me!**
 - LinkedIn: https://www.linkedin.com/in/tyler--gannon/
