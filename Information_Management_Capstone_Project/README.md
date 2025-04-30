@@ -3,7 +3,7 @@
 ## **Final Project for the Information Management Course in the MS Business Analytics prgram at UT Austin.**
 This repository highlights the code and process for completing my final project in this course.
 
-:link: Watch the full breakdown here: 
+:link: Watch the full breakdown here: [Youtube](https://youtu.be/wMmH8OzUQe0 'Information Management Capstone Project Video')
 
 ## **:rocket: Project Overview:**
 For the capstone project in the Information Management course, I constructed a data pipeline utilizing software such as Databricks, Microsoft Azure Data Lake, and Snowflake.
